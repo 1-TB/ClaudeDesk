@@ -6,7 +6,7 @@ ClaudeDesk is a lightweight desktop application that provides quick access to Cl
 
 ## Features
 
-- 🚀 Quick access to Claude.ai through customizable global shortcut (default: Cmd/Ctrl+Shift+A)
+- 🚀 Quick access to Claude.ai through a global shortcut
 - 🔄 Runs in system tray for minimal interference
 - ⌨️ Customizable global shortcut
 - 💻 Cross-platform support (macOS, Windows)
